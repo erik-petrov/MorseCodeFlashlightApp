@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseCodeFlashlightApp.Android", "MorseCodeFlashlightApp\MorseCodeFlashlightApp.Android\MorseCodeFlashlightApp.Android.csproj", "{61575E99-D99E-4067-9EDD-F0D1EC1D08DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseCodeFlashlightApp", "MorseCodeFlashlightApp\MorseCodeFlashlightApp\MorseCodeFlashlightApp.csproj", "{16BF97A8-758E-4D68-A9B0-4B314C1FDB8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61575E99-D99E-4067-9EDD-F0D1EC1D08DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61575E99-D99E-4067-9EDD-F0D1EC1D08DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61575E99-D99E-4067-9EDD-F0D1EC1D08DC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{61575E99-D99E-4067-9EDD-F0D1EC1D08DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61575E99-D99E-4067-9EDD-F0D1EC1D08DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61575E99-D99E-4067-9EDD-F0D1EC1D08DC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{16BF97A8-758E-4D68-A9B0-4B314C1FDB8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BF97A8-758E-4D68-A9B0-4B314C1FDB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BF97A8-758E-4D68-A9B0-4B314C1FDB8E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{16BF97A8-758E-4D68-A9B0-4B314C1FDB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BF97A8-758E-4D68-A9B0-4B314C1FDB8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BF97A8-758E-4D68-A9B0-4B314C1FDB8E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAB7B5BB-EC47-44C1-B52D-5BB392131AF5}
+	EndGlobalSection
+EndGlobal
